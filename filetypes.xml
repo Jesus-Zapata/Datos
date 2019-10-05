@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="intento" type="PLAIN_TEXT" />
+      <mapping pattern="archivo" type="PLAIN_TEXT" />
+      <mapping pattern="datos" type="PLAIN_TEXT" />
+      <mapping pattern="Archivo" type="PLAIN_TEXT" />
+      <mapping pattern="Persistencia" type="PLAIN_TEXT" />
+      <mapping pattern="map" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
