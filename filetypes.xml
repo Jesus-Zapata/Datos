@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="intento" type="PLAIN_TEXT" />
       <mapping pattern="archivo" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="datos" type="PLAIN_TEXT" />
       <mapping pattern="Archivo" type="PLAIN_TEXT" />
       <mapping pattern="Persistencia" type="PLAIN_TEXT" />
